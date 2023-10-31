@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-size: 40px;
+  padding-bottom: 20px;
+  background-image: linear-gradient(#FFCF02, #FF7352);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px #aaa;
+}
+
+li {
+  list-style: none;
+  line-height: 1.5;
+}
